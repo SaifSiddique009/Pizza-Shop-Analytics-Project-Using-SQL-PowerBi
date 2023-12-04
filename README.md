@@ -67,6 +67,10 @@ In the data cleaning phase, several steps were taken to ensure data accuracy and
    - Daily trend bar charts and monthly trend area charts provided a clear representation of sales patterns.
    - Donut charts effectively communicated the percentage of sales by category and size.
    - Funnel charts identified the top and bottom 5 sellers based on revenue and total orders.
+   <p align="center">
+  <img src="https://github.com/SaifSiddique009/Pizza-Shop-Analytics-Project-Using-SQL-PowerBi/blob/main/Daily%20Trend%20for%20Total%20Orders.png" width="400" />
+  <img src="https://github.com/SaifSiddique009/Pizza-Shop-Analytics-Project-Using-SQL-PowerBi/blob/main/Monthly%20Trend%20for%20Total%20Orders.png" width="400" /> 
+   </p>
 
 ## Key Insights
 
